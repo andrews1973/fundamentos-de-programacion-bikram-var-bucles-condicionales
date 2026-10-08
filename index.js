@@ -117,7 +117,7 @@ let valorDivision = MiNumeroFav / 3;
 
 let contarHasta10 = 0;
 
-while (contarHasta10 <= 10){
+while (contarHasta10 < 10){
     contarHasta10++
 }
 
